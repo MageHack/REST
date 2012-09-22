@@ -1,0 +1,29 @@
+{
+	id: "MagentoWebApp",
+	name: "Magento WebApp",
+	description: "Magento Web App to access to the information proveded by its REST API",
+	loaderConfig: {
+
+	},	
+	dependencies: [
+		"dojox/mobile/Heading"
+	],
+	modules: [
+	    
+	],
+	controllers: [
+	    "dojox/app/controllers/History"
+	],
+	stores: {
+
+	},	
+	template: "./tpl/application.html",
+	models: {
+
+	},
+	defatulView: "",
+	defaultTransition: "slide",
+	views: {
+	   
+	}
+}
